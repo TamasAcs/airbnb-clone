@@ -40,3 +40,8 @@
     width: 15vw;
     margin-right: 80px;
 }
+.MuiAvatar-root:hover,
+.MuiSvgIcon-root:hover,
+p:hover{
+cursor: pointer;
+}
